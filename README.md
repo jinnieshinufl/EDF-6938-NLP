@@ -16,3 +16,7 @@ Fall 2022 EDP 6938 - Intro to NLP Lab Repository
 > `Week 7.ipynb`: Statistical N-gram Language Modelling 
  
 > `Week 8.ipynb`: Machine Learning Overview 
+
+> `Week 9+10.ipynb`: Supervised learning and Text classification 
+
+> `Week 11+12.ipynb`: Unsupervised learning and Topic Modelling 
